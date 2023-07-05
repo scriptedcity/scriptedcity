@@ -1,3 +1,5 @@
+I'm developer & musician.
+
 ## Daw
 [![My Skills](https://skillicons.dev/icons?i=ableton,)](https://skillicons.dev)
 
